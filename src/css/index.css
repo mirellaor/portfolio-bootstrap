@@ -10,6 +10,14 @@
     font-family: 'Poppins', 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: var(--rosa);
-    color: var(--roxo) !important;
+
+    color: whitesmoke !important;
+}
+
+body {
+    background-color: var(--lilasRosa);
+}
+
+.card {
+    background-color: var(--roxo) !important;
 }
